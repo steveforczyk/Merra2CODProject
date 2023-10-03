@@ -40,10 +40,23 @@ Thumbs.db
 #####################
 *.jpeg
 *.jpg
+*.tif
 *.nc
 *.nc1
 *.nc2
 *.nc3
 *.nc4
 *.mat
+*.xlsx
+*.xlsm
+*.bas
+*.pdf
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.cst
+*.
+
 
