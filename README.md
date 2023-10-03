@@ -14,3 +14,12 @@ anf the user will need an account to download data from this source. Many differ
 This dataset has the short name of M2TMNXRAD_5.12.4 and is also called MERRA-2 tavgM_2d_rad_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Radiation Diagnostics V5.12.4 .
 This dataset provides many different items but this project is focussed on the variable "TAUHGH" which is the name for the Cloud Optical Depth (COD) at high altitudes. This was the variable
 of greatest interest because the goal of the effort was to study the effect of Cirrus clouds on climate.
+## Script Processing
+The executive script was called "ProcessCODData.m" and is the entry point to the analysis effort. The basic tasks to be accomplished by this script and the other included functions are as follows
++ Set up required folder paths and variables,flags and default values
++ User selects datafiles and time of day
++ Each file is then processed in succession to decode the data
++ Global plot/Polar plot of TAUHGH is produced (polar plots used because Region Of Interest is 65N to 90N
++ TimeTables Created and Plotted to show results of time
+
+  
