@@ -9,4 +9,6 @@ The contributing sensors have a wide variety of capabilities,sampling rates,wave
 and agglomorate this data to estimate and the values of measured producrs on a common data grid. In the case of Merra2 this data grid is spaced at 0.5 deg in latitude and
 0.625 deg in longitude. This produces a grid of dimensions  576 x 361 points. The data is stored using a netCDF format.
 ## Project Scope
-This project was executed using Matlab version 2022b and uses the basic Matlab along with the data mapping toolbox.
+This project was executed using Matlab version 2022b and uses the basic Matlab along with the data mapping toolbox. The dataset that is used comes from the NASA EarthData website
+anf the user will need an account to download data from this source. Many different datasets are collected on this site but only one dataset was used for this versy specific project.
+This dataset has the short name of M2TMNXRAD_5.12.4 and is also called MERRA-2 tavgM_2d_rad_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Radiation Diagnostics V5.12.4 .
