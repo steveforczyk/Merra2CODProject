@@ -7,4 +7,6 @@ called data assimilation. In practical terms this indicates gathering data from 
 land and sea based sensors.
 The contributing sensors have a wide variety of capabilities,sampling rates,wavelength regimes etc. The assimilation process is meant to combine these disparate results
 and agglomorate this data to estimate and the values of measured producrs on a common data grid. In the case of Merra2 this data grid is spaced at 0.5 deg in latitude and
-0.625 deg in longitude. This produces a grid of diemnsions 576 x 361 points.
+0.625 deg in longitude. This produces a grid of dimensions  576 x 361 points. The data is stored using a netCDF format.
+## Project Scope
+This project was executed using Matlab version 2022b and uses the basic Matlab along with the data mapping toolbox.
