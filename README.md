@@ -21,6 +21,9 @@ The executive script was called "ProcessCODData.m" and is the entry point to the
 + Each file is then processed in succession to decode the data
 + Global plot/Polar plot of TAUHGH is produced (polar plots used because Region Of Interest is 65N to 90N
 + TimeTables Created and Plotted to show results over time at 1 day intervals
+
+Note that the full files cover a grid of 576 x 361 points and span the globe. For purposes of this project the Region of Interest (ROI)
+was limited to 65-90 Deg North and covered the full psan of the glove in latitude.
  
 
   
