@@ -23,7 +23,9 @@ The executive script was called "ProcessCODData.m" and is the entry point to the
 + TimeTables Created and Plotted to show results over time at 1 day intervals
 
 Note that the full files cover a grid of 576 x 361 points and span the globe. For purposes of this project the Region of Interest (ROI)
-was limited to 65-90 Deg North and covered the full psan of the glove in latitude.
+was limited to 65-90 Deg North and covered the full span of the globe in latitude. In addition the raw datafile,including all the (128) variables) over the entire globe
+have a size of about 209 MBytes per file. It is possible to doenload only a subset of the full raw file. That was done in this case and this reduced the file size to just 132 KB 
+because on 4 variables were downloaded. The full size files are not practical to host on GitHub.
  
 
   
