@@ -20,6 +20,7 @@ The executive script was called "ProcessCODData.m" and is the entry point to the
 + User selects datafiles and time of day
 + Each file is then processed in succession to decode the data
 + Global plot/Polar plot of TAUHGH is produced (polar plots used because Region Of Interest is 65N to 90N
-+ TimeTables Created and Plotted to show results of time
++ TimeTables Created and Plotted to show results over time at 1 day intervals
++ 
 
   
