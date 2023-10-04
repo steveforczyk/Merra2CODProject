@@ -26,6 +26,13 @@ Note that the full files cover a grid of 576 x 361 points and span the globe. Fo
 was limited to 65-90 Deg North and covered the full span of the globe in longitude. In addition the raw datafile,including all the (128) variables) over the entire globe
 has a size of about 209 MBytes per file. It is possible to download only a subset of the full raw file. That was done in this case and this reduced the file size to just 132 KB 
 because only 4 variables were downloaded. The full size files are not practical to host on GitHub.
+
+## User Guide
+This project requires significant effort to set up and to understand the data. For this reason an extensive User Guide was created and was stored in this repo.
+The name of this file is "User Manual For ProcessCODData.docx". The reader is stringly advised to read this document afterdow downloading the contents of this repo.
+As noted earlier,it is not easy to store files larger than 25 MB on the repo so only some of the "data only files " were stored. The workaround is that a copy of this repo is stored on
+Dropbox. The user manual has a link to this repo which has a full collection of files.
+
  
 
   
