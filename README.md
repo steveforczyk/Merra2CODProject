@@ -33,6 +33,14 @@ The name of this file is "User Manual For ProcessCODData.docx". The reader is st
 As noted earlier,it is not easy to store files larger than 25 MB on the repo so only some of the "data only files " were stored. The workaround is that a copy of this repo is stored on
 Dropbox. The user manual has a link to this repo which has a full collection of files.
 
+## Reference Material
+The EarthData site https://disc.gsfc.nasa.gov/datasets/M2TMNXRAD_5.12.4/summary?keywords=M2TMNXRAD_5.12.4 provides a wealth of reference material and the reader should study it. Some of the
+reference papers have been included in the GitHub and Dropbox repos. A good start point is to read the paper The Modern-Era Retrospective Analysis for Research and Applications,
+Version 2 (MERRA-2" by Gelaro et all. The Merra2 program creates approximately 60 different data products so no one reference can begin to cover this depth of material.
+
+## Ancillary Software
+There is one piece of government provided software that every user should have and use to assist in understanding the data. This software is called "Panoply" and can be downloaded
+from the following site https://www.giss.nasa.gov/tools/panoply/download/  . Very highly recommended
  
 
   
